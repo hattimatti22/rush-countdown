@@ -1,0 +1,14 @@
+{
+  "name": "Rush Countdown – Helsinki 2027",
+  "short_name": "Rush Countdown",
+  "description": "Lähtölaskenta Rushin Helsingin konserttiin 10.4.2027 klo 18.30.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#11100f",
+  "theme_color": "#11100f",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
